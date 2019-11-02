@@ -2,7 +2,7 @@
   "homepage": "https://cerebrium.github.io/website/",
   "name": "website",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.11.0",
