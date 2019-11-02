@@ -18,7 +18,7 @@ class App extends React.Component {
       <Router>
         <div className='mainContainer'>
           <div className='navContainer'>
-            <div className='nav'><Link to='/' >Home</Link></div><div className='nav'><Link to='/about' >About</Link></div><div className='nav'><Link to='/recruitment' >Recruitment</Link></div><div className='nav'><Link to='/testimonials' >Testimonials</Link></div><div className='nav'><Link to='/policies' >Policies</Link></div><div className='nav'><Link to='/contact'>Contact</Link></div>
+            <div><Link to='/' className='nav'>Home</Link></div><div><Link to='/about' className='nav'>About</Link></div><div><Link to='/recruitment' className='nav'>Recruitment</Link></div><div><Link to='/testimonials' className='nav'>Testimonials</Link></div><div><Link to='/policies' className='nav'>Policies</Link></div><div><Link to='/contact'className='nav'>Contact</Link></div>
           </div>
           <Route exact path='/' component={Home}/>
           <Route exact path='/about' component={About}/>
