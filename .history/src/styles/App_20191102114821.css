@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  position: relative;
+  text-align: center;
+  border: 1em;
+}

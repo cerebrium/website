@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+nav {
+
+}

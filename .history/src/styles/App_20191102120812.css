@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+/* .appContainer {
+  min-width: 100vw;
+} */
+
+.navContainer {
+  display: flex;
+  justify-content: center;
+  position: fixed; /* Make it stick, even on scroll */
+  /* width: 100%; */
+  /* margin: 0;
+  padding: 0; */
+}
+
+nav {
+  background-color: rgb(104, 104, 212);
+  height: 7%; /* Full height */
+}

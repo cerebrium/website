@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  position: flex;
+  justify-content: center;
+  justify-content: space-between;
+
+}

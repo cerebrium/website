@@ -1,0 +1,13 @@
+/* .homePageMainDiv {
+    display: flex;
+    min-width: 100vh;
+} */
+
+.rowCentering {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+
+}

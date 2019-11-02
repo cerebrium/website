@@ -1,0 +1,38 @@
+
+/***************************** MAIN APP STYLING ******************************/
+
+.App {
+  text-align: center;
+}
+
+.mainContainer {
+  min-width: 100vw;
+}
+
+.navContainer {
+  display: flex;
+  flex-flow: row;
+  align-content: center;
+  position: fixed; /* Make it stick, even on scroll */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+
+  background-color: white;
+  height: 12%; /* Full height */
+  width: 100%;
+}
+
+/***************************** HOME APP STYLING ******************************/
+.rowCentering {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  background: green;
+}
