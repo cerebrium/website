@@ -1,0 +1,9 @@
+.homePageMainDiv {
+    display: flex;
+    min-width: 100vh;
+    justify-content: center;
+}
+
+h1 {
+    
+}
